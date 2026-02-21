@@ -1,4 +1,4 @@
-# PricerLB — Euronext Rapeseed Options Pricing & Risk Management Dashboard
+# Euronext Rapeseed Options Pricing & Risk Management Dashboard
 
 A professional-grade Streamlit dashboard for managing Euronext Rapeseed (ECO) futures and options positions. Built around the **Black-76 model**, it provides full Greeks computation, P&L attribution, volatility surface analysis, and a multi-leg strategy pricer.
 
