@@ -38,7 +38,7 @@ A professional-grade Streamlit dashboard for managing Euronext Rapeseed (ECO) fu
 ## Architecture
 
 ```
-PricerLB/
+Pricer/
 ├── Cockpit.py              # Main Streamlit app (4-page dashboard)
 ├── GreeksManagement.py     # Black-76 Greeks engine (~1,500 lines)
 ├── PnLComputation.py       # Realized P&L analytics
